@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "../../java vsc/vsjava/corejava"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/abs"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/collection"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/exception"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/fileio"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/functional"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/fx"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/oop"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/serialize"
+		},
+		{
+			"path": "../../java vsc/vsjava/corejava/src/org/vit/corejava/thread"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			"src\\org\\vit\\corejava\\collection"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.dependency.packagePresentation": "hierarchical",
+		"files.associations": {
+			"iostream": "cpp",
+			"stdio.h": "c"
+		}
+	}
+}
